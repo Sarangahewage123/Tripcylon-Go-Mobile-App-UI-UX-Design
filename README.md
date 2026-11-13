@@ -79,7 +79,7 @@ The project includes **26 mobile application UI screens**, organized into the fo
 - My Trips / Itinerary
 - Itinerary Details
 
-Personalization & Account
+### Personalization & Account
 - Favorites
 - Profile
 - Edit Profile
@@ -87,14 +87,18 @@ Personalization & Account
 - About Us
 - Help & Support
 
-🛠️ Tools & Technologies
+---
+
+## 🛠️ Tools & Technologies
 
 - Figma
 - UI/UX Design
 - Mobile App Design
 - Interactive Prototyping
 
-🎯 Project Goals
+---
+
+## 🎯 Project Goals
 
 - Design an intuitive mobile travel experience.
 - Improve destination discovery and trip planning experiences.
@@ -102,9 +106,11 @@ Personalization & Account
 - Create a clear navigation structure.
 - Develop a visually appealing and accessible interface.
 
-👨‍🎨 My Role
+---
 
-UI/UX Designer
+## 👨‍🎨 My Role
+
+**UI/UX Designer**
 
 Responsibilities:
 - Concept development
@@ -114,12 +120,16 @@ Responsibilities:
 - Navigation structure
 - Interactive prototyping
 
-🔗 Design & Prototype
+---
 
-Figma Design: [Add Your Figma Design Link](YOUR_FIGMA_DESIGN_URL)
-Interactive Prototype: [Explore Prototype](YOUR_FIGMA_PROTOTYPE_URL)
+## 🔗 Design & Prototype
 
-🚀 Future Improvements
+- **Figma Design:** [Add Your Figma Design Link](YOUR_FIGMA_DESIGN_URL)
+- **Interactive Prototype:** [Explore Prototype](YOUR_FIGMA_PROTOTYPE_URL)
+
+---
+
+## 🚀 Future Improvements
 
 - Conduct user research and usability testing.
 - Improve accessibility and interaction design.
@@ -127,8 +137,12 @@ Interactive Prototype: [Explore Prototype](YOUR_FIGMA_PROTOTYPE_URL)
 - Develop functional trip planning features.
 - Implement the mobile application.
 
-📄 License
+---
+
+## 📄 License
 
 This project is created for personal portfolio and educational purposes.
 
-TripCylon Go – Explore Sri Lanka, Your Way. 🌿
+---
+
+**TripCylon Go – Explore Sri Lanka, Your Way.** 🌿
