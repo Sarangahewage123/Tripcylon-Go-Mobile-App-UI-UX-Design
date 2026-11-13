@@ -125,7 +125,7 @@ Responsibilities:
 ## 🔗 Design & Prototype
 
 - **Figma Design:** (https://www.figma.com/design/giUqXQ2QkPnU4cPXM5Kr7M/trip-cylon-go?node-id=0-1&t=7cxLlvh0GdIj1aLJ-1)
-- **Interactive Prototype:** [Explore Prototype](YOUR_FIGMA_PROTOTYPE_URL)
+- **Interactive Prototype:** (https://www.figma.com/proto/giUqXQ2QkPnU4cPXM5Kr7M/trip-cylon-go?node-id=4-5&viewport=2205%2C-3043%2C0.09&t=5Yns48x6B1DTR3Kv-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=277%3A468&page-id=0%3A1)
 
 ---
 
